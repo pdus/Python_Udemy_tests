@@ -1,0 +1,60 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "** This it's just a series of reminders of how to work with Python**\n",
+    "It's been a lot of time since last time, I've been using it.\n",
+    "\n",
+    "** All the notes from the Udemy are on the Google Drive, on Udemy-> Bootcamp Python. **\n",
+    "\n",
+    "** In this case, I just want to start using VSCode as editor to practice, using his extension for Anaconda.**\n",
+    "\n",
+    "### REMINDER --> FIRST EXECUTE Jupyter-Lab, TO EXECUTE THE KERNEL. IF NOT, IT WILL NOT WORK ###"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Just to try to understand something, some shortcuts to use on Jupyter Lab (or Note):\n",
+    "\n",
+    "- To **delete** --> **DD**\n",
+    "- To **run a cell** --> **Shift + Enter**\n",
+    "- To **use Markdown** --> **M**\n",
+    "- To **use Python** --> **Y**\n",
+    "- To **Copy a cell** --> **C**\n",
+    "- To **Cut a cell** --> **X**\n",
+    "- To **Insert a cell Above** --> **A**\n",
+    "- To **Insert a cell Below** --> **B**\n",
+    "\n",
+    "### IMPORTANT --> TO RUN THIS COMMANDS IT'S NEEDED TO PRESS ALWAYS \"ESC\" BEFORE. ###"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": 3
+  },
+  "orig_nbformat": 2
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
